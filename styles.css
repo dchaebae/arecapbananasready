@@ -1,0 +1,37 @@
+body {
+	background-image: url('yesbanana.gif');
+	background-size: cover;
+}
+
+label#titlehead {
+	text-align:center;
+	min-width: 100%;
+	min-height: 5vh;
+}
+
+p#title {
+	color: #cc0000;
+	text-align: center;
+	font-size: 	3.5vw;
+}
+
+img {
+	height: 30vh;
+	position: absolute;
+}
+
+img#left {
+	left: 8vw;
+	bottom: 40vh;
+}
+img#right {
+	right: 8vw;
+	bottom:40vh;
+}
+
+p#yes {
+	text-align: center;
+	font-size: 4.5vw;
+	color: #ffff66;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
